@@ -7755,7 +7755,7 @@ o.sYg(s)
 q=o
 r.Zg$=q
 r.Zh$=new A.a77(A.aB(t.m))
-q.sJi("https://bolegaming888.xyz/v1/api")
+q.sJi("https://back.mintargyi.com/v1/api")
 return new A.a66(r)},
 a66:function a66(a){this.a=a},
 qW:function qW(a,b){this.c=a
@@ -47072,7 +47072,7 @@ A.Zq.prototype={
 am(){$.a4.R8$.push(new A.aAn(this))
 this.aE()},
 l(){this.aD()},
-G(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/icons/transaction.png",h=$.aO6(),g=$.qR(),f=A.N("Core Gaming",j,j,j,j,j,j,j),e=t.p
+G(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="assets/icons/transaction.png",h=$.aO6(),g=$.qR(),f=A.N("Min Thar Gyi SKM",j,j,j,j,j,j,j),e=t.p
 f=A.aOv(A.b([new A.ak(B.nG,A.dt(new A.aAc()),j),A.fZ(!1,j,!0,A.aV(B.Hb,j,j),j,!0,j,j,j,j,j,j,j,j,j,new A.aAd(k,a),j,j,j,j),A.av(j,j,20),A.av(j,j,30)],e),h,g,f)
 g=$.aYF()
 h=k.x&&k.w===0?B.aw:B.y

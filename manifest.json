@@ -1,11 +1,11 @@
 {
-    "name": "agent_pannel",
-    "short_name": "agent_pannel",
+    "name": "Min Thar Gyi SKM",
+    "short_name": "Min Thar Gyi SKM",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Min Thar Gyi SKM Agent Pannel",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
